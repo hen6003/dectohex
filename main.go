@@ -1,8 +1,8 @@
 package main
 
 import (
-	"flago"
 	"fmt"
+	"github.com/hen6003/flago"
 	"strconv"
 )
 
